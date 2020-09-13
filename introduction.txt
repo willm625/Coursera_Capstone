@@ -1,0 +1,1 @@
+Everyday, a work commuter is susceptible to a car accident, no matter how safe they are. This project will attempt to create a model which can predict the chance of a car collision occuring. Its purpose is provide people driving to work with the safest route possible to their destination. Ultimately, the driver, worker or not, can navigate safer than before.
